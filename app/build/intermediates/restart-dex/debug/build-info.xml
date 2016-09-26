@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    api-level="23"
+    density="560dpi"
+    format="8"
+    plugin-version="2.2.0"
+    timestamp="168624767840328"
+    token="6762450370734826271"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="9390" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="207" />
+    <task
+        name="verifier"
+        duration="14" />
+
+    <artifact
+        location="/Users/cathydwyer/Downloads/ASPetPix4-master 2/app/build/outputs/apk/app-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="168624767840328"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/Users/cathydwyer/Downloads/ASPetPix4-master 2/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

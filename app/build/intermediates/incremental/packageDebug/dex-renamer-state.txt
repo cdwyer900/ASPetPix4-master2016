@@ -1,0 +1,7 @@
+#Mon Sep 26 15:20:35 EDT 2016
+base.0=/Users/cathydwyer/Downloads/ASPetPix4-master 2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_4bc3ef88370241ba2525910396e53eabe4813e28
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/cathydwyer/Downloads/ASPetPix4-master 2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_deb5a6e250d7946d75fec6c9bae9275caee9b624/classes.dex
+base.1=/Users/cathydwyer/Downloads/ASPetPix4-master 2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_deb5a6e250d7946d75fec6c9bae9275caee9b624
+file.0=/Users/cathydwyer/Downloads/ASPetPix4-master 2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_4bc3ef88370241ba2525910396e53eabe4813e28/classes.dex
